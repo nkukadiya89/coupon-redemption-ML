@@ -1,6 +1,6 @@
 # coupon-redemption-ML
 
-                                            Recommendation system POC
+                                           Recommendation system POC
 
 
 # Installation Process
@@ -55,7 +55,7 @@ The following is a part of the description of the data:
   ii) There are many algorithm in Machine learning. 
  iii) Broadly, there are 3 types of Machine Learning Algorithms
  
-                                            1. Supervised Learning
+                                           1. Supervised Learning
 How it works: This algorithm consist of a target / outcome variable (or dependent variable) which is to be predicted from a given set of predictors (independent variables). Using these set of variables, we generate a function that map inputs to desired outputs. The training process continues until the model achieves a desired level of accuracy on the training data. Examples of Supervised Learning: Regression, Decision Tree, Random Forest, KNN, Logistic Regression etc.
 
  
@@ -71,20 +71,20 @@ How it works: Using this algorithm, the machine is trained to make specific deci
                                     List of Common Machine Learning Algorithms
 Here is the list of commonly used machine learning algorithms. These algorithms can be applied to almost any data problem:
 
- Linear Regression
- Logistic Regression
- Decision Tree
- SVM
- Naive Bayes
- kNN
- K-Means
- Random Forest
- Dimensionality Reduction Algorithms
- Gradient Boosting algorithms
- GBM
- XGBoost
- LightGBM
- CatBoost
+ 1) Linear Regression
+ 2) Logistic Regression
+ 3) Decision Tree
+ 4) SVM
+ 5) Naive Bayes
+ 6) kNN
+ 7) K-Means
+ 8) Random Forest
+ 9) Dimensionality Reduction Algorithms
+ 10) Gradient Boosting algorithms
+ 11) GBM
+ 12) XGBoost
+ 13) LightGBM
+ 14) CatBoost
  
  
  
@@ -95,7 +95,7 @@ Here is the list of commonly used machine learning algorithms. These algorithms 
 
 The word “prediction” can be misleading. In some cases, it really does mean that you are predicting a future outcome, such as when you’re using machine learning to determine the next best action in a marketing campaign. Other times, though, the “prediction” has to do with, for example, whether or not a transaction that already occurred was fraudulent. In that case, the transaction already happened, but you’re making an educated guess about whether or not it was legitimate, allowing you to take the appropriate action.
 
-                                            Why are Predictions Important?
+                                           Why are Predictions Important?
 Machine learning model predictions allow businesses to make highly accurate guesses as to the likely outcomes of a question based on historical data, which can be about all kinds of things – customer churn likelihood, possible fraudulent activity, and more. These provide the business with insights that result in tangible business value. For example, if a model predicts a customer is likely to churn, the business can target them with specific communications and outreach that will prevent the loss of that customer.
 
 
